@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov9dz", "Tumakov9dz\Tumakov9dz.csproj", "{DA3188DF-8462-44B0-9C64-B361B8D81492}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica", "Practica\Practica.csproj", "{8C7483BD-99A7-4C5E-A93D-1267BA74E630}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3188DF-8462-44B0-9C64-B361B8D81492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3188DF-8462-44B0-9C64-B361B8D81492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3188DF-8462-44B0-9C64-B361B8D81492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3188DF-8462-44B0-9C64-B361B8D81492}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7483BD-99A7-4C5E-A93D-1267BA74E630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7483BD-99A7-4C5E-A93D-1267BA74E630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7483BD-99A7-4C5E-A93D-1267BA74E630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7483BD-99A7-4C5E-A93D-1267BA74E630}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53AD5215-4990-4914-A698-70A71603B46E}
+	EndGlobalSection
+EndGlobal
